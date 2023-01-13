@@ -1,0 +1,22 @@
+body{
+    padding: 5px;
+}
+
+#mainbody{
+    display: flex;  /* Enable Flexbox layout */
+    align-items: center; /* Center the items horizontally */
+    justify-content: center; /* Center the items vertically */
+}
+
+#navbar{
+display: flex;
+justify-content: space-between;
+text-decoration: none;
+padding:10px;
+border: 2px solid black;
+width: 250px;
+}
+
+#navbar a{
+    text-decoration: none;
+}
